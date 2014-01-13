@@ -1,4 +1,5 @@
 # Easy Node Authentication
+http://scotch.io/tutorials/javascript/easy-node-authentication-linking-all-accounts-together
 
 Code for the entire scotch.io tutorial series: Complete Guide to Node Authentication
 
